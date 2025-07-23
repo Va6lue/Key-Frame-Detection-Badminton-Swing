@@ -26,6 +26,8 @@ Data is converted from the raw video files of badminton swings to 23 skeletal jo
 - `RNN_BorderlineSMOTE.ipynb`: for LSTM, GRU in the paper.
 
 ### Partial Code with PyTorch
+[![Static Badge](https://img.shields.io/badge/Python-3.11-gray?labelColor=%234584B6)](https://www.python.org/downloads/) [![Static Badge](https://img.shields.io/badge/PyTorch-2.4.0%2Bcu121-gray?labelColor=%23EE4C2C)](https://pytorch.org/)
+
 (In `my_code` folder)
 - `dataset.py`: for loading the dataset.
 - `<model_name>.py`: for modified ST-GCN, SkateFormer, BlockGCN architectures in the paper.
