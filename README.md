@@ -8,7 +8,8 @@ The use of video analysis in sports training has revolutionized the way coaches 
 
 ## Dataset
 Data is converted from the raw video files of badminton swings to 23 skeletal joint coordinates by using [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide?hl=zh-tw) tools.
-<img src="Dataset/mediapipe_skeleton.png" alt="Joint Coordinates" width="67%">
+
+<img src="Dataset/mediapipe_skeleton.png" alt="Joint Coordinates" width="35%">
 
 - `all_coordinates_xy.csv`: all 2D joints.
 - `all_coordinates_list.csv`: all 3D joints.
